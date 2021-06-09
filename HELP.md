@@ -4,7 +4,7 @@
 ./mvnw spring-boot:run
 ```
 
-## login in
+## login
  *  username: user
  *   password: password
 
