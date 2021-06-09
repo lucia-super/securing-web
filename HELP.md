@@ -4,9 +4,9 @@
 ./mvnw spring-boot:run
 ```
 
-* login in
-  username: user
-  password: password
+## login in
+ *  username: user
+ *   password: password
 
 ### generate the coverage report
 ```
